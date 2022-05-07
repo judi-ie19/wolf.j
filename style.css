@@ -1,0 +1,205 @@
+.page{
+    background-color:#5C736C ;
+}
+.page nav ul li{
+ display: inline-flex;
+ margin-left:10% ;
+}
+.nav{
+    margin-left: 60%;
+     margin-top: -10%;
+     
+
+}
+.start{
+    margin-left: 10%;
+    /* margin-top:5%; */
+    color: #E5EBEA;
+    margin-top: 5%;
+}
+.skin{
+     margin-top: 10%; 
+    color:#E5EBEA;
+    margin-left: 10%;
+    /* margin-bottom: 5%;
+    */
+} 
+.image1{
+
+    margin-left: 55%;
+    margin-top: -20%;
+}
+.get{
+    margin-left: 10%;
+    color: white;
+    border: 2px solid white;
+    border-radius: 500px;
+    width: 130px;
+    height: 40px;
+    background-color: #5C736C;
+    /* margin-top: -2%; */
+    
+}
+.now{
+    border: 2px solid white;
+    border-radius: 500px;
+    width: 130px;
+    height: 40px;
+    margin-left: 5px;
+    background-color: white;
+
+}
+span{
+    color: #E5EBEA;
+}
+.grid{
+    text-align: center;
+    font-size: 40px;
+    color: #9A9A9A;
+    
+}
+.wolf{
+    text-align: center;
+}
+.text{
+    /* display: flex; */
+    margin-top: -25%;
+    margin-left: 15%;
+    /* color: #9A9A9A; */
+    font-size: 90%;
+}
+.edit{
+    /* display: flex; */
+    margin-left: 60%;
+    margin-top: -15%;
+    /* color:#9A9A9A ; */
+    font-size: 90%;
+    
+}
+.sentence{
+    margin-top: 10%;
+    text-align: center;
+     /* font-size: 80%; */
+     color: #9A9A9A;
+}
+.sentence h1{
+font-size: 150%;
+}
+.sentence p{
+    font-size: 100%;
+}
+.c{
+    margin-left: 50%;
+    margin-top: -20%;
+}
+.a{
+    /* background-color:#E5EBEA ; */
+}
+.c{
+    margin-top: -13%;
+    margin-right: 5%;
+
+}
+.page2{
+    background-color:#93BFB3;
+    margin-top: 6%;
+    height: 250px;
+}
+.c h1{
+    font-size: 150%;
+    color: white;
+    margin-top: -5%;
+}
+.c p{
+    font-size: 90%;
+    margin-top: -2%;
+}
+
+.b{
+    margin-left: 8%;
+}
+.order{
+    border: 2px solid white;
+    border-radius: 500px;
+    width: 110px;
+    height: 30px;
+    margin-left: 60%;
+    background-color: white;
+    margin-top: -3%;
+}
+.produce{
+    text-align: center;
+    color:#9A9A9A ;
+    margin-top: 5%;
+    margin-top: 10%;
+    
+}
+.lotions{
+    display: flex;
+    /* flex-direction:row; */
+    /* width: 90; */
+    margin-left: 10%;
+    padding-right:250px ;
+   
+}
+.clean{
+   border: 5px solid #F2F2F2  ;
+   width: 350px;
+   height:400px;
+   background-color:#F2F2F2 ;
+   padding-left:10%;
+   padding-top: 10%;
+
+}
+.face{
+    margin-left: 10%;
+    width: 300px;
+    border: 5px solid #F2F2F2 ;
+    height: 400px;
+    background-color:#F2F2F2 ;
+    padding-right: 10%;
+    padding-top: 10%;
+    
+} 
+.love{
+    color:black;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 25px;
+}    
+.person1{
+  margin-left: 25%;  
+} 
+
+
+
+
+.hair{
+    margin-left: 60%;
+    margin-top: -28%;
+
+}
+.lastpage{
+    display: flex;
+    background-color:#E7E7E7;
+    margin-top: 5%;
+}
+.Social{
+     margin-left: 15%; 
+}
+.Account{
+    margin-left: 20%;
+}
+.company{
+    margin-left: 10%;
+}
+.last{
+    margin-left: 5%;
+}
+.page-two{
+    /* background-color:#9A9A9A; */
+    height: 4%;
+}
+
+    
+  
