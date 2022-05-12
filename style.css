@@ -96,27 +96,32 @@ font-size: 150%;
     /* background-color:#E5EBEA ; */
 
 .c{
-    margin-top: -13%;
-    margin-right: 5%;
+    margin-top: 5%;
+
+    /* margin-top: 5%; */
+    /* margin-right: 5%; */
 
 }
 .page2{
-    background-color:#93BFB3;
+    /* background-color:#93BFB3; */
     margin-top: 6%;
-    height: 250px;
+    height: 150px;
+    background-color: #93BFB3;
 }
 .c h1{
     font-size: 150%;
     color: white;
-    margin-top: -5%;
+    margin-top: 5%;
+   
 }
 .c p{
     font-size: 90%;
-    margin-top: -2%;
+    margin-top: 2%;
 }
 
-.b{
-    margin-left: 8%;
+.b img{
+    margin-right: 10%;
+    margin-top: -100%;
 }
 .order{
     border: 2px solid white;
@@ -125,7 +130,7 @@ font-size: 150%;
     height: 30px;
     margin-left: 60%;
     background-color: white;
-    margin-top: -3%;
+    margin-top: 3%;
 }
 .produce{
     text-align: center;
@@ -144,25 +149,28 @@ font-size: 150%;
 }
 .clean{
    border: 5px solid #F2F2F2  ;
-   width: 350px;
-   height:400px;
-   background-color:#F2F2F2 ;
+   width: 250px;
+   height:300px;
+   background-color:#F1F3F2;
    padding-left:10%;
    padding-top: 10%;
 
 }
 .face{
-    margin-left: 10%;
-    width: 300px;
+    margin-left: 7%;
+    width: 250px;
     border: 5px solid #F2F2F2 ;
-    height: 400px;
-    background-color:#F2F2F2 ;
+    height: 300px;
+    background-color: #F1F3F2;
     padding-right: 10%;
     padding-top: 10%;
     
 } 
+.face img{
+    margin-left: 10%;
+}
 .love{
-    color:black;
+    color:#9A9A9A;
     text-align: center;
     margin-top: 5%;
     font-size: 25px;
@@ -170,13 +178,17 @@ font-size: 150%;
 .person1{
   margin-left: 25%;  
 } 
+.person1 p{
+    /* margin-top: -7%; */
+}
 
 
 
 
 .hair{
     margin-left: 60%;
-    margin-top: -28%;
+    /* margin-top: -28%; */
+    margin-top: -24%;
 
 }
 .lastpage{
@@ -199,6 +211,24 @@ font-size: 150%;
 .page-two{
     /* background-color:#9A9A9A; */
     height: 4%;
+}
+.person1 img{
+    border: 2px solid #6C6C73;
+    background-color: #5C736C;
+    border-radius: 100%;
+    /* margin-top: -3%; */
+
+}
+.hair img{
+    border:2px solid #6C6C73 ;
+    border-radius: 100%;
+    background-color: #5C736C;
+}
+.person1 p{
+    color: #9A9A9A;
+}
+.hair p{
+    color: #9A9A9A;
 }
 
     
